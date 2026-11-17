@@ -16,8 +16,6 @@
 │ <a href="https://github.com/arshalsoren/topd">topd</a>    htop for macOS, without opening a window.                           │
 │         Live CPU, memory, GPU, storage, and network cards                   │
 │         from the menu bar.                                                  │
-│         <a href="https://github.com/arshalsoren/topd">https://github.com/arshalsoren/topd</a>                                 │
-│         <a href="https://arshalsoren.github.io/topd/">https://arshalsoren.github.io/topd/</a>                                 │
 └─────────────────────────────────────────────────────────────────────────────┘
 ┌─ links ─────────────────────────────────────────────────────────────────────┐
 │ <a href="https://linkedin.com/in/arshalsoren">[1] LinkedIn</a>                                                                │
