@@ -1,4 +1,4 @@
-```
+<pre>
 ┌─ about ────────────────────────────┬─ stack ────────────────────────────────┐
 │ Arshal Soren                       │ Languages  Go, TypeScript, JS,         │
 │ backend software engineer          │            PHP, Python, Swift          │
@@ -13,16 +13,16 @@
 │                                    │            AWS, GCP, Terraform         │
 └────────────────────────────────────┴────────────────────────────────────────┘
 ┌─ projects ──────────────────────────────────────────────────────────────────┐
-│ topd    htop for macOS, without opening a window.                           │
+│ <a href="https://github.com/arshalsoren/topd">topd</a>    htop for macOS, without opening a window.                           │
 │         Live CPU, memory, GPU, storage, and network cards                   │
 │         from the menu bar.                                                  │
-│         https://github.com/arshalsoren/topd                                 │
-│         https://arshalsoren.github.io/topd/                                 │
+│         <a href="https://github.com/arshalsoren/topd">https://github.com/arshalsoren/topd</a>                                 │
+│         <a href="https://arshalsoren.github.io/topd/">https://arshalsoren.github.io/topd/</a>                                 │
 └─────────────────────────────────────────────────────────────────────────────┘
 ┌─ links ─────────────────────────────────────────────────────────────────────┐
-│ [1] LinkedIn          https://linkedin.com/in/arshalsoren                   │
-│ [2] GitHub Sponsors   https://github.com/sponsors/arshalsoren               │
-│ [3] Patreon           https://patreon.com/arshalsoren                       │
-│ [4] Buy Me a Coffee   https://buymeacoffee.com/arshalsoren                  │
+│ [1] <a href="https://linkedin.com/in/arshalsoren">LinkedIn</a>          <a href="https://linkedin.com/in/arshalsoren">https://linkedin.com/in/arshalsoren</a>                   │
+│ [2] <a href="https://github.com/sponsors/arshalsoren">GitHub Sponsors</a>   <a href="https://github.com/sponsors/arshalsoren">https://github.com/sponsors/arshalsoren</a>               │
+│ [3] <a href="https://patreon.com/arshalsoren">Patreon</a>           <a href="https://patreon.com/arshalsoren">https://patreon.com/arshalsoren</a>                       │
+│ [4] <a href="https://buymeacoffee.com/arshalsoren">Buy Me a Coffee</a>   <a href="https://buymeacoffee.com/arshalsoren">https://buymeacoffee.com/arshalsoren</a>                  │
 └─────────────────────────────────────────────────────────────────────────────┘
-```
+</pre>
