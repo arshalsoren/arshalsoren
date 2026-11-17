@@ -2,12 +2,15 @@
 ┌─ about ────────────────────────────┬─ stack ────────────────────────────────┐
 │ Arshal Soren                       │ Languages  Go, TypeScript, JS,         │
 │ backend software engineer          │            PHP, Python, Swift          │
-│                                    │ Backend    Node.js, REST, gRPC         │
-│ Scalable, high-availability        │            Microservices, Kafka        │
-│ services and APIs.                 │ Data       MongoDB, ClickHouse         │
-│                                    │            PostgreSQL, Redis           │
-│ Performance, reliability and       │ Infra      Docker, Kubernetes          │
-│ observability first.               │            AWS, GCP, Terraform         │
+│                                    │                                        │
+│ Scalable, high-availability        │ Backend    Node.js, REST, gRPC         │
+│ services and APIs.                 │            Microservices, Kafka        │
+│                                    │                                        │
+│ Performance, reliability and       │ Data       MongoDB, ClickHouse         │
+│ observability first.               │            PostgreSQL, Redis           │
+│                                    │                                        │
+│                                    │ Infra      Docker, Kubernetes          │
+│                                    │            AWS, GCP, Terraform         │
 └────────────────────────────────────┴────────────────────────────────────────┘
 ┌─ projects ──────────────────────────────────────────────────────────────────┐
 │ topd    htop for macOS, without opening a window.                           │
@@ -17,12 +20,9 @@
 │         https://arshalsoren.github.io/topd/                                 │
 └─────────────────────────────────────────────────────────────────────────────┘
 ┌─ links ─────────────────────────────────────────────────────────────────────┐
-│ [1] GitHub Sponsors   https://github.com/sponsors/arshalsoren               │
-│ [2] Patreon           https://patreon.com/arshalsoren                       │
-│ [3] Buy Me a Coffee   https://buymeacoffee.com/arshalsoren                  │
-│ [4] LinkedIn          https://linkedin.com/in/arshalsoren                   │
-└─────────────────────────────────────────────────────────────────────────────┘
-┌─ keys ──────────────────────────────────────────────────────────────────────┐
-│ q quit    ↑↓ navigate    ⏎ open                                             │
+│ [1] LinkedIn          https://linkedin.com/in/arshalsoren                   │
+│ [2] GitHub Sponsors   https://github.com/sponsors/arshalsoren               │
+│ [3] Patreon           https://patreon.com/arshalsoren                       │
+│ [4] Buy Me a Coffee   https://buymeacoffee.com/arshalsoren                  │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
