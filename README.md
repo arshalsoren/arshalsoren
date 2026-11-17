@@ -20,9 +20,9 @@
 │         <a href="https://arshalsoren.github.io/topd/">https://arshalsoren.github.io/topd/</a>                                 │
 └─────────────────────────────────────────────────────────────────────────────┘
 ┌─ links ─────────────────────────────────────────────────────────────────────┐
-│ [1] <a href="https://linkedin.com/in/arshalsoren">LinkedIn</a>          <a href="https://linkedin.com/in/arshalsoren">https://linkedin.com/in/arshalsoren</a>                   │
-│ [2] <a href="https://github.com/sponsors/arshalsoren">GitHub Sponsors</a>   <a href="https://github.com/sponsors/arshalsoren">https://github.com/sponsors/arshalsoren</a>               │
-│ [3] <a href="https://patreon.com/arshalsoren">Patreon</a>           <a href="https://patreon.com/arshalsoren">https://patreon.com/arshalsoren</a>                       │
-│ [4] <a href="https://buymeacoffee.com/arshalsoren">Buy Me a Coffee</a>   <a href="https://buymeacoffee.com/arshalsoren">https://buymeacoffee.com/arshalsoren</a>                  │
+│ <a href="https://linkedin.com/in/arshalsoren">[1] LinkedIn</a>                                                                │
+│ <a href="https://github.com/sponsors/arshalsoren">[2] GitHub Sponsors</a>                                                         │
+│ <a href="https://patreon.com/arshalsoren">[3] Patreon</a>                                                                 │
+│ <a href="https://buymeacoffee.com/arshalsoren">[4] Buy Me a Coffee</a>                                                         │
 └─────────────────────────────────────────────────────────────────────────────┘
 </pre>
