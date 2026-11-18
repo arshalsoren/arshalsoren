@@ -13,5 +13,6 @@
 │         Live CPU, memory, GPU, storage, and network  │ <a href="https://github.com/sponsors/arshalsoren">[2] GitHub Sponsors</a>                                      │
 │         cards from the menu bar.                     │ <a href="https://patreon.com/arshalsoren">[3] Patreon</a>                                              │
 │                                                      │ <a href="https://buymeacoffee.com/arshalsoren">[4] Buy Me a Coffee</a>                                      │
+│                                                      │ <a href="https://arshalsoren.github.io/portfolio/">[5] Portfolio</a>                                            │
 └──────────────────────────────────────────────────────┴──────────────────────────────────────────────────────────┘
 </pre>
