@@ -9,10 +9,10 @@
 │                                                      │ Infra      Docker, Kubernetes, AWS, GCP, Terraform       │
 └──────────────────────────────────────────────────────┴──────────────────────────────────────────────────────────┘
 ┌─ projects ───────────────────────────────────────────┬─ links ──────────────────────────────────────────────────┐
-│ <a href="https://github.com/arshalsoren/topd">topd</a>    htop for macOS, without opening a window.    │ <a href="https://linkedin.com/in/arshalsoren">[1] LinkedIn</a>                                             │
-│         Live CPU, memory, GPU, storage, and network  │ <a href="https://github.com/sponsors/arshalsoren">[2] GitHub Sponsors</a>                                      │
-│         cards from the menu bar.                     │ <a href="https://patreon.com/arshalsoren">[3] Patreon</a>                                              │
-│                                                      │ <a href="https://buymeacoffee.com/arshalsoren">[4] Buy Me a Coffee</a>                                      │
-│                                                      │ <a href="https://arshalsoren.github.io/portfolio/">[5] Portfolio</a>                                            │
+│ <a href="https://github.com/arshalsoren/topd">topd</a>    htop for macOS, without opening a window.    │ <a href="https://arshalsoren.github.io/portfolio/">[1] Portfolio</a>                                            │
+│         Live CPU, memory, GPU, storage, and network  │ <a href="https://linkedin.com/in/arshalsoren">[2] LinkedIn</a>                                             │
+│         cards from the menu bar.                     │ <a href="https://github.com/sponsors/arshalsoren">[3] GitHub Sponsors</a>                                      │
+│                                                      │ <a href="https://patreon.com/arshalsoren">[4] Patreon</a>                                              │
+│                                                      │ <a href="https://buymeacoffee.com/arshalsoren">[5] Buy Me a Coffee</a>                                      │
 └──────────────────────────────────────────────────────┴──────────────────────────────────────────────────────────┘
 </pre>
